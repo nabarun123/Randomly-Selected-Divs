@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+
+#randomluSelectConatiner {
+  display: flex;
+  justify-content: center;
+}
+.randomItem {
+  height: 368px;
+  width: 252px;
+  background-color: darkblue;
+  margin: 18px;
+}
+
+.active {
+  background-color: red;
+}
